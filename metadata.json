@@ -1,0 +1,15 @@
+	Created the metadata.json file as follows:
+{
+  "name": "Winter",
+  "symbol": "wntr",
+  "description": "Teasing Metadata",
+  "image": "https://arweave.net/link-to-your-image/https/https://github.com/sekwall/WinterTest/blob/main/winter.jpg",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/sekwall/WinterTest/blob/main/winter.jpg",
+        "type": "image/png"
+      }
+    ]
+  }}
