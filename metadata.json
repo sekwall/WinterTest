@@ -2,12 +2,12 @@
   "name": "Winter",
   "symbol": "WNTR",
   "description": "Winter Coin",
-  "image": "https://raw.githubusercontent.com/sekwall/WinterTest/main/winter.png",
+  "image": "https://raw.githubusercontent.com/sekwall/WinterTest/main/Winter.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/sekwall/WinterTest/main/winter.png",
+        "uri": "https://raw.githubusercontent.com/sekwall/WinterTest/main/Winter.png",
         "type": "image/png"
       }
     ]
