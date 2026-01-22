@@ -1,2 +1,2 @@
-# Winter
+# WinterScene
 Solana Coin on DevNet
